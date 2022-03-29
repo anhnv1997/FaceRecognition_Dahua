@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FaceRecognition.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Language" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vi-VN</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IsRememberPassword" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SQLServerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VIETANH-PC</Value>
+    </Setting>
+    <Setting Name="SQLDatabaseName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FaceRecognition</Value>
+    </Setting>
+    <Setting Name="SQLAuthentication" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Windows Authentication</Value>
+    </Setting>
+    <Setting Name="SQLUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="SQLPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Kztek123456</Value>
+    </Setting>
+    <Setting Name="ServerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.108</Value>
+    </Setting>
+    <Setting Name="ServerUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="ServerPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin123</Value>
+    </Setting>
+    <Setting Name="CurrentDisplayMode" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

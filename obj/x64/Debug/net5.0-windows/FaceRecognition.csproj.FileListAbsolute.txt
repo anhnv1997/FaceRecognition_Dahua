@@ -1,0 +1,504 @@
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.exe
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.deps.json
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.runtimeconfig.json
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.runtimeconfig.dev.json
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\ref\FaceRecognition.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.pdb
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\vi-VN\FaceRecognition.resources.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\LazZiya.ImageResize.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\RestSharp.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\RestSharp.Authenticators.Digest.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Form1.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmCamera.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmFacePerson.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromCamera.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromWebcam.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGroupFace.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmUser.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.frmSetting.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Properties.Resources.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucCamera.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithCandidate.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithNoCandidate.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFacePerson.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucGroupFace.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucUser.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Form1.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmCamera.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmFacePerson.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGroupFace.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmUser.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.frmSetting.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucCamera.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithNoCandidate.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFacePerson.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucGroupFace.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucUser.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.GenerateResource.cache
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.AssemblyInfoInputs.cache
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.AssemblyInfo.cs
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.CoreCompileInputs.cache
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\vi-VN\FaceRecognition.resources.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.CopyComplete
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\ref\FaceRecognition.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.pdb
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.genruntimeconfig.cache
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithCandidate.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromCamera.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\vai-Latn\FaceRecognition.resources.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\Emgu.CV.Platform.NetStandard.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg451_64.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg451.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\vccorlib140.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromWebcam.vai-Latn.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromWebcam.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\vai-Latn\FaceRecognition.resources.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSystemReport.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSystemReport.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSelectGroupFace.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFaceRecognize.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSetMinSimilarity.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFaceRecognize.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSelectGroupFace.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSetMinSimilarity.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSearchPerson.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSearchPerson.vi-VN.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSelectDisplayMode.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucVehicleCar.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucVehicleNonMotor.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmVehicleReport.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\System.Speech.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmCheckInDialog.resources
+C:\Users\VIET ANH\Desktop\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.AssemblyReference.cache
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.exe
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.deps.json
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.runtimeconfig.json
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.runtimeconfig.dev.json
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\ref\FaceRecognition.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.pdb
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\vi-VN\FaceRecognition.resources.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\vai-Latn\FaceRecognition.resources.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\Emgu.CV.Platform.NetStandard.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\Emgu.CV.Bitmap.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\LazZiya.ImageResize.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\RestSharp.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\RestSharp.Authenticators.Digest.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\System.Data.OleDb.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\System.Speech.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\cvextern.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg451_64.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\cvextern.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg451.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\concrt140.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\vccorlib140.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\concrt140.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\vcruntime140.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.AssemblyReference.cache
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Form1.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmCamera.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmCheckInDialog.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmFacePerson.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromCamera.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromWebcam.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGroupFace.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSearchPerson.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSelectDisplayMode.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSelectGroupFace.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSetMinSimilarity.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSystemReport.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmUser.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmVehicleReport.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.frmSetting.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Properties.Resources.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucCamera.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithCandidate.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithNoCandidate.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFacePerson.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFaceRecognize.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucGroupFace.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucUser.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucVehicleCar.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucVehicleNonMotor.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Form1.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmCamera.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmFacePerson.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromCamera.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromWebcam.vai-Latn.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromWebcam.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGroupFace.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSearchPerson.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSelectGroupFace.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSetMinSimilarity.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSystemReport.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmUser.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.frmSetting.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucCamera.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithCandidate.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithNoCandidate.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFacePerson.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFaceRecognize.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucGroupFace.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucUser.vi-VN.resources
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.GenerateResource.cache
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.AssemblyInfoInputs.cache
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.AssemblyInfo.cs
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.CoreCompileInputs.cache
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\vi-VN\FaceRecognition.resources.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\vai-Latn\FaceRecognition.resources.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.CopyComplete
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\ref\FaceRecognition.dll
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.pdb
+D:\2.KZTECH\Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.genruntimeconfig.cache
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.exe
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.deps.json
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.runtimeconfig.json
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.runtimeconfig.dev.json
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\ref\FaceRecognition.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.pdb
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\vi-VN\FaceRecognition.resources.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\vai-Latn\FaceRecognition.resources.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\Emgu.CV.Platform.NetStandard.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\Emgu.CV.Bitmap.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\LazZiya.ImageResize.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\RestSharp.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\RestSharp.Authenticators.Digest.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\System.Data.OleDb.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\System.Speech.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\cvextern.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg451_64.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\cvextern.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg451.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\concrt140.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\vccorlib140.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\concrt140.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\vcruntime140.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.AssemblyReference.cache
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Form1.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmCamera.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmCheckInDialog.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmFacePerson.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromCamera.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromWebcam.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGroupFace.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSearchPerson.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSelectDisplayMode.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSelectGroupFace.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSetMinSimilarity.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSystemReport.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmUser.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmVehicleReport.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.frmSetting.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Properties.Resources.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucCamera.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithCandidate.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithNoCandidate.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFacePerson.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFaceRecognize.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucGroupFace.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucUser.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucVehicleCar.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucVehicleNonMotor.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Form1.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmCamera.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmFacePerson.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromCamera.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromWebcam.vai-Latn.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromWebcam.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGroupFace.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSearchPerson.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSelectGroupFace.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSetMinSimilarity.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSystemReport.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmUser.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.frmSetting.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucCamera.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithCandidate.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithNoCandidate.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFacePerson.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFaceRecognize.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucGroupFace.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucUser.vi-VN.resources
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.GenerateResource.cache
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.AssemblyInfoInputs.cache
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.AssemblyInfo.cs
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.CoreCompileInputs.cache
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\vi-VN\FaceRecognition.resources.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\vai-Latn\FaceRecognition.resources.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\ref\FaceRecognition.dll
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.pdb
+D:\2.KZTECH\5.Dự Án\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.genruntimeconfig.cache
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.exe
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.deps.json
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.runtimeconfig.json
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.runtimeconfig.dev.json
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\ref\FaceRecognition.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.pdb
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\vi-VN\FaceRecognition.resources.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\vai-Latn\FaceRecognition.resources.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\Emgu.CV.Platform.NetStandard.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\Emgu.CV.Bitmap.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\LazZiya.ImageResize.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\RestSharp.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\RestSharp.Authenticators.Digest.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\System.Data.OleDb.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\System.Speech.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\cvextern.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg451_64.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\cvextern.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg451.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\concrt140.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\vccorlib140.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\concrt140.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\vcruntime140.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.AssemblyReference.cache
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Form1.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmCamera.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmCheckInDialog.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmFacePerson.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromCamera.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromWebcam.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGroupFace.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSearchPerson.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSelectDisplayMode.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSelectGroupFace.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSetMinSimilarity.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSystemReport.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmUser.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmVehicleReport.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.frmSetting.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Properties.Resources.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucCamera.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithCandidate.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithNoCandidate.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFacePerson.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFaceRecognize.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucGroupFace.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucUser.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucVehicleCar.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucVehicleNonMotor.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Form1.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmCamera.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmFacePerson.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromCamera.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromWebcam.vai-Latn.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromWebcam.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGroupFace.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSearchPerson.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSelectGroupFace.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSetMinSimilarity.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSystemReport.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmUser.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.frmSetting.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucCamera.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithCandidate.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithNoCandidate.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFacePerson.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFaceRecognize.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucGroupFace.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucUser.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.GenerateResource.cache
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.AssemblyInfoInputs.cache
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.AssemblyInfo.cs
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.CoreCompileInputs.cache
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\vi-VN\FaceRecognition.resources.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\vai-Latn\FaceRecognition.resources.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\ref\FaceRecognition.dll
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.pdb
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.genruntimeconfig.cache
+D:\2.KZTECH\5.DuAn\2. Chấm công Face\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.CopyComplete
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.exe
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.deps.json
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.runtimeconfig.json
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.runtimeconfig.dev.json
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\ref\FaceRecognition.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\FaceRecognition.pdb
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\vi-VN\FaceRecognition.resources.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\vai-Latn\FaceRecognition.resources.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\Emgu.CV.Platform.NetStandard.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\Emgu.CV.Bitmap.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\LazZiya.ImageResize.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\RestSharp.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\RestSharp.Authenticators.Digest.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\System.Data.OleDb.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\System.Speech.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\cvextern.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg451_64.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\cvextern.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg451.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\concrt140.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\vccorlib140.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\concrt140.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\vcruntime140.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.AssemblyReference.cache
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Form1.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmCamera.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmCheckInDialog.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmFacePerson.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromCamera.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromWebcam.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGroupFace.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSearchPerson.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSelectDisplayMode.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSelectGroupFace.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSetMinSimilarity.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSystemReport.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmUser.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmVehicleReport.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.frmSetting.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Properties.Resources.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucCamera.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithCandidate.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithNoCandidate.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFacePerson.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFaceRecognize.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucGroupFace.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucUser.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucVehicleCar.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucVehicleNonMotor.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Form1.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmCamera.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmFacePerson.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromCamera.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromWebcam.vai-Latn.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGetImageFromWebcam.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmGroupFace.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSearchPerson.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSelectGroupFace.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSetMinSimilarity.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmSystemReport.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.Forms.frmUser.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.frmSetting.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucCamera.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithCandidate.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucEventWithNoCandidate.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFacePerson.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucFaceRecognize.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucGroupFace.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.UserControls.ucUser.vi-VN.resources
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.GenerateResource.cache
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.AssemblyInfoInputs.cache
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.AssemblyInfo.cs
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.CoreCompileInputs.cache
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\vi-VN\FaceRecognition.resources.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\vai-Latn\FaceRecognition.resources.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.csproj.CopyComplete
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\ref\FaceRecognition.dll
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.pdb
+D:\2.KZTECH\5.DuAn\2.ChamCongFace\FaceRecognition\obj\x64\Debug\net5.0-windows\FaceRecognition.genruntimeconfig.cache

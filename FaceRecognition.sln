@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FaceRecognition", "FaceRecognition.csproj", "{0BB67CB8-B20F-4BDA-98E5-1C96F98C394A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kztek.FaceID", "..\..\..\..\Kztek.FaceID\Kztek.FaceID\Kztek.FaceID.csproj", "{160F4A9E-133E-4517-B360-EC2255B30342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB67CB8-B20F-4BDA-98E5-1C96F98C394A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB67CB8-B20F-4BDA-98E5-1C96F98C394A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB67CB8-B20F-4BDA-98E5-1C96F98C394A}.Debug|x64.ActiveCfg = Debug|x64
+		{0BB67CB8-B20F-4BDA-98E5-1C96F98C394A}.Debug|x64.Build.0 = Debug|x64
+		{0BB67CB8-B20F-4BDA-98E5-1C96F98C394A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB67CB8-B20F-4BDA-98E5-1C96F98C394A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB67CB8-B20F-4BDA-98E5-1C96F98C394A}.Release|x64.ActiveCfg = Release|x64
+		{0BB67CB8-B20F-4BDA-98E5-1C96F98C394A}.Release|x64.Build.0 = Release|x64
+		{160F4A9E-133E-4517-B360-EC2255B30342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160F4A9E-133E-4517-B360-EC2255B30342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160F4A9E-133E-4517-B360-EC2255B30342}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{160F4A9E-133E-4517-B360-EC2255B30342}.Debug|x64.Build.0 = Debug|Any CPU
+		{160F4A9E-133E-4517-B360-EC2255B30342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160F4A9E-133E-4517-B360-EC2255B30342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{160F4A9E-133E-4517-B360-EC2255B30342}.Release|x64.ActiveCfg = Release|Any CPU
+		{160F4A9E-133E-4517-B360-EC2255B30342}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53994C40-B2D8-49F4-97C6-1C4389E9120B}
+	EndGlobalSection
+EndGlobal

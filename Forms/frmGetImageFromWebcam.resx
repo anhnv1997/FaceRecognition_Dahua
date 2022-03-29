@@ -1,0 +1,386 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;treeView1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TreeView, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="button3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAATrzAAE68wEXCzLMAAAIGElE
+        QVRYR+2X129UZxrGfZf8Eej8BSuFQCCJCy7Te6+e3jzjCgQMBmNwAduYsgWyKbQYbFrAOOAKJqAFmxol
+        aO8Shf2QNpFysbvYZm+I9OxzzsyQAe1md69ykyP9NJqr5/e+5/3KKfv1+cUffzxNMq+TFb54RvLG0pIn
+        kpTcxBVOSM5QXLLXxyR7MCrZAhHJ6g9LZl9IMnvrJZMnKBndQUnv8kt6p0/SOXyS1uGVNHaPpLK6iUuq
+        szilWrNTqjbZpWqjTVpnsElVeuuKSp3ltQq9pawskGhYRYlzvlj6sTeWEgwXnnBCuIkzFBOO+qhguGC4
+        YLiw+EKC4YLhwugOCIPLLxgu9A6v0Nk9QmN3C7XVLVQWl2C4qDU7RI3RLhgu1hmsokpvEZVa87cVWtNo
+        hdb8RlkgnrkZae9G7tgEcsenkT0+hYZjU8gcm0T66CRSRyeQPEI+voIEiX98GbGPLiP64WeIkPAHnyH0
+        x3HUy7w/jsD7l+A/LDMG36ExeP9wER7i/v0FuGR+dwGOA2dRF25Eudp4TRZ43sjwrV/+E+1fPMPmApse
+        PsN7ZCPZ8HCZPMN6/rY9WEbr/WW0kGaZe8toIo0kR7J38zTcXULmzhLSBVILS0iShMydZ7ANjVLA8Fye
+        ATSemMYWOfjBosJ79/NsJBseLKHt9g9omvsLmm9+h9Z7T9FybxHNd5+iSebOUzSSHMkuPEVDgfT8PxRS
+        BRK388Rl5pdgP/gp3lUZUOaPpZGjQPsXy0r4phKBDXf/jtTxWXg29cKeboOjaSuCQ8PIXX/CyhdfCi8V
+        yCzkw4sCyUK4TOxWUeA83pEFOHzKuy8KlFaf+GAc/mQChwecmDphw+ghG5IpL9wde5G7+T07sPg/VV8U
+        kKuXBWIUsCkCepRx2SmDJ7//F9Wz7c2z38DdsB6jh5348ZEe+LNW4eGYCf5oAJGjM3z3S/939UUBKwXe
+        VgSiKUVAGbyiAIctNXwdsXQETz43M1gHPKIA+fErDfq22+Du/QiN7MBL1d9Z5OAt/nz1JCoLHKBAHQU8
+        JQIv2l8QiKbDFDDlq1cENHj+pRo922xw9X74sgCDoxe/QnTsEdL8/2r1RYFoicDaOh0FIkll3W8qCBQn
+        v3nma7gybRg5ZGfVcvs1RI37Fw3whn0IHZnm0ltSwrNcZuHReejCWWjDOdSPLnDZLf776gsClgPnsLZW
+        EUjkBeR1XxTgUltPYtxovPE4DvY6MHHMghMHrYgm3HBsGUTDje9Z/SLX/E/h3iY73Dk71KEGBCmRnOcg
+        v1J9ROY2BfZToEZLgXCCu15eQAkvEWi98zckPpmDc2MPLIlmWLPt8A+dRMPcE+Tk9jM8ooTn4G91YNeY
+        kzjgbrJCFcwgMLKABCVKq4/8KS9gpsCaGg3KuOcr266y65WEt8nwf+v9JTTd+gHZq4+Ru/Ed1z6X3ovw
+        BegjP4X3z8o40HWBM9JoQV0gDd+peU4956NYPQXCisDZvABPPGS458sCpdXL4S0MbiYtfNfKxlNc9wyP
+        npbDGxnuRPeYCwNXndgz4yB2YsMOSjizJtT4U/BSIkoJJbxE4C1FIBRXDh1lzy+Er5ervi7g3b5PITcn
+        lDWv7HyFcEO0EYE214vw/pm8wO5pW54ZKzo/tcDRYES1LwnPydts/WJBYBEmWaCaAjxyCwI8cArhzdxq
+        vR2DcCcDcMX8cG0ZUN57Ew+fGMONL8LdDHcprS9WXxTom7Kgb9pMCTNsGQOqPHG4hm8r4SFZYN9ZrF6n
+        pkB9TDlyFYGScG8miB2ngugcDsKZ8MPZPoAwdz9jvBnB9S70jHkwWAgvVl8U6Ju2KgK9U2b0Tpuw/bwR
+        1rQOle44nMO3EJpfhpECq2QBXjiQ4nkvvwI53Md93pupZ3g9DlwPYj/Z9gkFEj5onUFW7kHvJTmc1c/+
+        5+qVcNIzZSJGbDtngCWlRbkrCsdJdpGrYFWVigJBCvAVtN74qxLua6hH16kQw+uxby6IfdcC/PWj44QP
+        tqgXvhYPeigwQIH/Vr0SPmlE96QB3VMGdJzVw5xUo5ydqGnqyneA9z3EfjuCQOd+hofQNZIP3y+HKwJ+
+        DF3zYWjOh60nvPDkPGg/5sbgtdL2l1SvCJRUXxDYNaHnrw5bz2phTGqwqlpLAXZAFnDEsvBnw9hxMsRg
+        Vn41iKGrAQzNBrB31ofBWS8GZ7xsOds/7sbuSRf2TDN4ilM/ZWcggyet6CU9EwyeMKFb5ooRu64YsPOK
+        Hjsv69B1WYuuKxpsGlFDE6rDm5UUsAWiz708dDqOBNB/2Y894z7sHvegj23uveRGL5dZDzeZbu5w3Rft
+        2HXRhp0XrNxsLOjihO9QMKHzvIHDpue7ltGx3VqiwdYzamw5o0L7mTq0n67F5tEabD5dDc/mGqysVD0v
+        s/kjc7JAU38QLXsDaB70o2nAh8Z+L3L9HuT2uJHd7ULDbicyfQ6ke+1IkWSPDYluK7EgvsuM2E4TojuN
+        iHQZiB7hHTqEOrWo79QguF2N4DYVAsTfUauEV9nqsLJCNc0ORN6w+MIjZl/4sXLddgd51Q4KvSugXLd5
+        1xdau1eobR6hsnp41eZ12+wUNSYnr9oOsU6+buttolJnFRVaiyjXmkW52iTeURnF2yqDWFunF2tqdeKt
+        Gq1YXa0VHDzxZpXqW1Y/vLKy7jdlDCeh1/mxseLnPjYo8NLHRo3J8erHhlShM0u860vlGpP0rtooUUCi
+        gMRjV1pTq5VWV2skChDVCkq8RgqfR78+v9hTVvYvtQ4Iv2YKzNEAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="button3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="WebcamPic.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;WebcamPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;WebcamPic.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;WebcamTreeview.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="WebcamLiveview.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnSave.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pictureBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>470, 55</value>
+  </data>
+  <data name="&gt;&gt;btnTakePicture.Name" xml:space="preserve">
+    <value>btnTakePicture</value>
+  </data>
+  <data name="&gt;&gt;button3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;treeView1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btnSave.Name" xml:space="preserve">
+    <value>btnSave</value>
+  </data>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>128, 55</value>
+  </data>
+  <data name="&gt;&gt;btnCancel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnSave.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="WebcamTreeview.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 55</value>
+  </data>
+  <data name="&gt;&gt;btnTakePicture.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnCancel.Name" xml:space="preserve">
+    <value>btnCancel</value>
+  </data>
+  <data name="btnTakePicture.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 12</value>
+  </data>
+  <data name="button2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;WebcamTreeview.Name" xml:space="preserve">
+    <value>WebcamTreeview</value>
+  </data>
+  <data name="WebcamPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>470, 55</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>frmGetImageFromWebcam</value>
+  </data>
+  <data name="pictureBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>331, 316</value>
+  </data>
+  <data name="pictureBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="WebcamLiveview.Location" type="System.Drawing.Point, System.Drawing">
+    <value>128, 55</value>
+  </data>
+  <data name="btnTakePicture.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>331, 316</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;btnTakePicture.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>813, 422</value>
+  </data>
+  <data name="button1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;WebcamLiveview.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnCancel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="treeView1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Name" xml:space="preserve">
+    <value>pictureBox2</value>
+  </data>
+  <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="treeView1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 316</value>
+  </data>
+  <data name="&gt;&gt;treeView1.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;WebcamTreeview.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TreeView, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSave.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button2.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="button1.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnSave.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;treeView1.Name" xml:space="preserve">
+    <value>treeView1</value>
+  </data>
+  <data name="&gt;&gt;WebcamLiveview.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>659, 380</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 30</value>
+  </data>
+  <data name="&gt;&gt;button2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="&gt;&gt;button3.Name" xml:space="preserve">
+    <value>button3</value>
+  </data>
+  <data name="button2.Text" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="WebcamTreeview.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="treeView1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 55</value>
+  </data>
+  <data name="&gt;&gt;btnTakePicture.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>731, 380</value>
+  </data>
+  <data name="&gt;&gt;button3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;WebcamTreeview.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnCancel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="button2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 12</value>
+  </data>
+  <data name="btnSave.Location" type="System.Drawing.Point, System.Drawing">
+    <value>654, 380</value>
+  </data>
+  <data name="button3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 30</value>
+  </data>
+  <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 30</value>
+  </data>
+  <data name="&gt;&gt;WebcamPic.Name" xml:space="preserve">
+    <value>WebcamPic</value>
+  </data>
+  <data name="btnCancel.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnCancel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>731, 380</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="button3.Text" xml:space="preserve">
+    <value>Take Picture</value>
+  </data>
+  <data name="button3.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;WebcamPic.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;WebcamLiveview.Name" xml:space="preserve">
+    <value>WebcamLiveview</value>
+  </data>
+  <data name="&gt;&gt;button2.Name" xml:space="preserve">
+    <value>button2</value>
+  </data>
+  <data name="&gt;&gt;WebcamLiveview.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="button3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>vi-VN</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>
